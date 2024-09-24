@@ -1,0 +1,82 @@
+.menu1{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    background-color: rgb(102, 102, 102);
+    justify-content: center;
+}
+.menu2
+{
+    list-style-type: none;
+}
+ .sd:hover
+{
+    color: red;
+    text-decoration:overline;
+}
+
+.ex2menu1{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    background-color: ;
+    justify-content: center;
+}
+.ex2menu2{
+    list-style-type: none;
+    margin: 15px;
+    background-color: gray;
+    text-align: center;
+    margin-right: 10px;
+    padding: 5px 10px;
+    display: inline-block;
+    
+    
+}
+.sd2{
+    color: white;
+}
+.sd2:hover{
+    color:gray ; 
+    
+}
+.ex2menu2:hover{
+    background-color: #007fff  ;
+    color: gray;
+}
+.ex3menu3{
+margin: 0;
+background-color:rgb(204,204,204) ;
+width: 150px;
+padding: 0px;
+display: so;
+justify-content: center;
+}
+.ex3menu4{
+  
+    list-style-type: none;
+}
+.sd3:hover {
+    color: white;
+    padding:0px 10px 0px 10px ;
+    background: rgb(224,27,106);
+    width: 50px;
+    height: 40px;
+
+
+}
+.sd3{
+    
+    color: white;
+}
+.ex3menu4:hover{
+    background: rgb(224,27,106);
+    width: 111px;
+  
+}
+
+.cabeca{
+margin-top: 109px;
+}
+
+
